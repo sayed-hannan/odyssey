@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclass=self.webpackChunkclass||[]).push([[678],{6558:function(e,n,t){t.r(n),t.d(n,{Head:function(){return s}});var a=t(7294);n.default=IndexPage;const s=()=>a.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-3897f722a8376440de80.js.map
